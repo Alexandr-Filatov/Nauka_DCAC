@@ -708,13 +708,25 @@
         "uuid": "b71610f2-a4ff-45af-ae45-737eb94139c5"
       }
     ],
-    "used_designators": "U1-5,D1-9,L1-2,#PWR1-58,C1-33,Y1,Q1-10,R1-51,J1-5",
+    "used_designators": "L1-7,D3-24,D41-42,#PWR4,#PWR6-7,#PWR10,#PWR12,#PWR25-117,#PWR136-138,#PWR140,#PWR144,#PWR147,#PWR204,#PWR220-225,#PWR229,#PWR233-244,C6-123,F2,J1-6,R1-14,R17-20,R22-27,R29-69,R81-85,R87-91,U2-15,U19-20,Q1-10",
     "variants": []
   },
   "sheets": [
     [
       "b71610f2-a4ff-45af-ae45-737eb94139c5",
       "Корневой лист"
+    ],
+    [
+      "11dfc619-9ee8-43e0-9630-d3a6a1b75954",
+      "Power"
+    ],
+    [
+      "f1fefea1-553f-4d9b-9342-dc4365492909",
+      "Supply"
+    ],
+    [
+      "b458c7ab-7311-44fa-8129-b4d3ebfd2241",
+      "Drivers"
     ]
   ],
   "text_variables": {},
