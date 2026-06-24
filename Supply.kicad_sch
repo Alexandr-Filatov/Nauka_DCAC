@@ -2687,7 +2687,19 @@
 		(uuid "2b4c7188-5b64-400e-9490-fdd74d4eacb9")
 	)
 	(rectangle
-		(start 144.78 33.02)
+		(start 144.78 90.17)
+		(end 198.12 139.7)
+		(stroke
+			(width 0.254)
+			(type dash)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "a38b44fd-9b79-4088-b40f-1ce7487a33dd")
+	)
+	(rectangle
+		(start 144.78 36.83)
 		(end 198.12 74.93)
 		(stroke
 			(width 0.254)
@@ -2698,10 +2710,10 @@
 		)
 		(uuid "e437311e-deac-47cb-aef7-81122d1eafc0")
 	)
-	(text_box "Питание 15В для драйверов"
+	(text_box "Питание 15В для драйверов бустрепных и нижних buck\n"
 		(exclude_from_sim no)
 		(at 144.78 28.0838 0)
-		(size 53.34 4.9362)
+		(size 53.34 8.7461)
 		(margins 0.9525 0.9525 0.9525 0.9525)
 		(stroke
 			(width 0.254)
@@ -2739,6 +2751,27 @@
 			)
 		)
 		(uuid "a5920bd2-e165-44d9-b25d-fceca827f689")
+	)
+	(text_box "Питание 15В для драйверов верхних buck"
+		(exclude_from_sim no)
+		(at 144.78 81.28 0)
+		(size 53.34 8.8899)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0.254)
+			(type dash)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.8288 1.8288)
+				(thickness 0.254)
+				(bold yes)
+			)
+		)
+		(uuid "d83049d3-6a9e-49a1-8116-49289ef3e2b6")
 	)
 	(text_box "Питание отвязанное для логики"
 		(exclude_from_sim no)
@@ -2798,7 +2831,7 @@
 		(uuid "2f6007ef-7b8a-4484-8493-99170e7a6a64")
 	)
 	(junction
-		(at 154.94 127)
+		(at 154.94 130.81)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "304a107e-1069-4b19-91d0-e03ccf7bbe33")
@@ -2822,7 +2855,7 @@
 		(uuid "5dded7ac-d168-44ac-bf60-790975fbe280")
 	)
 	(junction
-		(at 167.64 93.98)
+		(at 167.64 97.79)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "60bf3e6d-e342-40a9-ab1d-85ef51895d58")
@@ -2852,7 +2885,7 @@
 		(uuid "888aab0f-5df6-45b8-b84c-2ae6f8417913")
 	)
 	(junction
-		(at 167.64 102.87)
+		(at 167.64 106.68)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "8d0d20df-391c-485f-b2c7-120b268f53f3")
@@ -2906,7 +2939,7 @@
 		(uuid "a61f7067-344a-4757-bb7a-ca74593918de")
 	)
 	(junction
-		(at 154.94 102.87)
+		(at 154.94 106.68)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a721b7e6-8de5-4e26-8b58-60605c7cdf51")
@@ -2954,7 +2987,7 @@
 		(uuid "cdf667b9-ba6c-4a07-a7aa-bcb7137fa844")
 	)
 	(junction
-		(at 154.94 118.11)
+		(at 154.94 121.92)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d4ff88ba-ceff-468f-a457-63ea817220f5")
@@ -2966,19 +2999,19 @@
 		(uuid "ec31873a-bd7a-4294-9d93-d704ca88ac58")
 	)
 	(junction
-		(at 167.64 127)
+		(at 167.64 130.81)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ee266bf0-1b18-4d7b-ab95-02d13cccb47c")
 	)
 	(junction
-		(at 154.94 93.98)
+		(at 154.94 97.79)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f02360f6-1a2f-4415-ae60-64fdcedccc47")
 	)
 	(junction
-		(at 167.64 118.11)
+		(at 167.64 121.92)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ffc422ab-2f80-44d2-96cb-a5c0590ba074")
@@ -3097,7 +3130,7 @@
 	)
 	(wire
 		(pts
-			(xy 189.23 100.33) (xy 189.23 102.87)
+			(xy 189.23 104.14) (xy 189.23 106.68)
 		)
 		(stroke
 			(width 0)
@@ -3127,7 +3160,7 @@
 	)
 	(wire
 		(pts
-			(xy 167.64 93.98) (xy 171.45 93.98)
+			(xy 167.64 97.79) (xy 171.45 97.79)
 		)
 		(stroke
 			(width 0)
@@ -3147,7 +3180,7 @@
 	)
 	(wire
 		(pts
-			(xy 189.23 93.98) (xy 186.69 93.98)
+			(xy 189.23 97.79) (xy 186.69 97.79)
 		)
 		(stroke
 			(width 0)
@@ -3157,7 +3190,7 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 118.11) (xy 167.64 118.11)
+			(xy 165.1 121.92) (xy 167.64 121.92)
 		)
 		(stroke
 			(width 0)
@@ -3207,7 +3240,7 @@
 	)
 	(wire
 		(pts
-			(xy 186.69 102.87) (xy 189.23 102.87)
+			(xy 186.69 106.68) (xy 189.23 106.68)
 		)
 		(stroke
 			(width 0)
@@ -3277,7 +3310,7 @@
 	)
 	(wire
 		(pts
-			(xy 189.23 118.11) (xy 186.69 118.11)
+			(xy 189.23 121.92) (xy 186.69 121.92)
 		)
 		(stroke
 			(width 0)
@@ -3307,7 +3340,7 @@
 	)
 	(wire
 		(pts
-			(xy 154.94 93.98) (xy 154.94 95.25)
+			(xy 154.94 97.79) (xy 154.94 99.06)
 		)
 		(stroke
 			(width 0)
@@ -3317,7 +3350,7 @@
 	)
 	(wire
 		(pts
-			(xy 189.23 119.38) (xy 189.23 118.11)
+			(xy 189.23 123.19) (xy 189.23 121.92)
 		)
 		(stroke
 			(width 0)
@@ -3347,7 +3380,7 @@
 	)
 	(wire
 		(pts
-			(xy 189.23 124.46) (xy 189.23 127)
+			(xy 189.23 128.27) (xy 189.23 130.81)
 		)
 		(stroke
 			(width 0)
@@ -3367,7 +3400,7 @@
 	)
 	(wire
 		(pts
-			(xy 154.94 100.33) (xy 154.94 102.87)
+			(xy 154.94 104.14) (xy 154.94 106.68)
 		)
 		(stroke
 			(width 0)
@@ -3417,7 +3450,7 @@
 	)
 	(wire
 		(pts
-			(xy 154.94 118.11) (xy 154.94 119.38)
+			(xy 154.94 121.92) (xy 154.94 123.19)
 		)
 		(stroke
 			(width 0)
@@ -3447,7 +3480,7 @@
 	)
 	(wire
 		(pts
-			(xy 154.94 118.11) (xy 160.02 118.11)
+			(xy 154.94 121.92) (xy 160.02 121.92)
 		)
 		(stroke
 			(width 0)
@@ -3477,7 +3510,7 @@
 	)
 	(wire
 		(pts
-			(xy 167.64 102.87) (xy 171.45 102.87)
+			(xy 167.64 106.68) (xy 171.45 106.68)
 		)
 		(stroke
 			(width 0)
@@ -3487,7 +3520,7 @@
 	)
 	(wire
 		(pts
-			(xy 154.94 93.98) (xy 160.02 93.98)
+			(xy 154.94 97.79) (xy 160.02 97.79)
 		)
 		(stroke
 			(width 0)
@@ -3547,7 +3580,7 @@
 	)
 	(wire
 		(pts
-			(xy 167.64 100.33) (xy 167.64 102.87)
+			(xy 167.64 104.14) (xy 167.64 106.68)
 		)
 		(stroke
 			(width 0)
@@ -3557,7 +3590,7 @@
 	)
 	(wire
 		(pts
-			(xy 189.23 95.25) (xy 189.23 93.98)
+			(xy 189.23 99.06) (xy 189.23 97.79)
 		)
 		(stroke
 			(width 0)
@@ -3567,7 +3600,7 @@
 	)
 	(wire
 		(pts
-			(xy 154.94 124.46) (xy 154.94 127)
+			(xy 154.94 128.27) (xy 154.94 130.81)
 		)
 		(stroke
 			(width 0)
@@ -3587,7 +3620,7 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 93.98) (xy 167.64 93.98)
+			(xy 165.1 97.79) (xy 167.64 97.79)
 		)
 		(stroke
 			(width 0)
@@ -3607,7 +3640,7 @@
 	)
 	(wire
 		(pts
-			(xy 167.64 118.11) (xy 171.45 118.11)
+			(xy 167.64 121.92) (xy 171.45 121.92)
 		)
 		(stroke
 			(width 0)
@@ -3637,7 +3670,7 @@
 	)
 	(wire
 		(pts
-			(xy 167.64 127) (xy 171.45 127)
+			(xy 167.64 130.81) (xy 171.45 130.81)
 		)
 		(stroke
 			(width 0)
@@ -3707,7 +3740,7 @@
 	)
 	(wire
 		(pts
-			(xy 186.69 127) (xy 189.23 127)
+			(xy 186.69 130.81) (xy 189.23 130.81)
 		)
 		(stroke
 			(width 0)
@@ -3717,7 +3750,7 @@
 	)
 	(wire
 		(pts
-			(xy 167.64 95.25) (xy 167.64 93.98)
+			(xy 167.64 99.06) (xy 167.64 97.79)
 		)
 		(stroke
 			(width 0)
@@ -3777,7 +3810,7 @@
 	)
 	(wire
 		(pts
-			(xy 154.94 127) (xy 167.64 127)
+			(xy 154.94 130.81) (xy 167.64 130.81)
 		)
 		(stroke
 			(width 0)
@@ -3827,7 +3860,7 @@
 	)
 	(wire
 		(pts
-			(xy 154.94 102.87) (xy 167.64 102.87)
+			(xy 154.94 106.68) (xy 167.64 106.68)
 		)
 		(stroke
 			(width 0)
@@ -3867,7 +3900,7 @@
 	)
 	(wire
 		(pts
-			(xy 167.64 119.38) (xy 167.64 118.11)
+			(xy 167.64 123.19) (xy 167.64 121.92)
 		)
 		(stroke
 			(width 0)
@@ -3937,7 +3970,7 @@
 	)
 	(wire
 		(pts
-			(xy 167.64 124.46) (xy 167.64 127)
+			(xy 167.64 128.27) (xy 167.64 130.81)
 		)
 		(stroke
 			(width 0)
@@ -4039,7 +4072,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "EEUFR1J470"
+		(property "Datasheet" ""
 			(at 116.84 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -4051,6 +4084,28 @@
 			)
 		)
 		(property "Description" "Polarized capacitor, small symbol"
+			(at 116.84 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Product Name" ""
+			(at 116.84 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description P/N" "Capacitor tantalum SMD 10V"
 			(at 116.84 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -4302,7 +4357,7 @@
 	)
 	(symbol
 		(lib_id "MORNSUN_my:B_S-2WR3")
-		(at 179.07 115.57 0)
+		(at 179.07 119.38 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4313,7 +4368,7 @@
 		(fields_autoplaced yes)
 		(uuid "0f6ed3e0-a377-485e-818a-38655e9a4000")
 		(property "Reference" "D21"
-			(at 179.07 113.03 0)
+			(at 179.07 116.84 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4323,7 +4378,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 177.8 119.38 0)
+			(at 177.8 123.19 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4334,7 +4389,7 @@
 			)
 		)
 		(property "Footprint" "MORNSUN:B_S-2WR3"
-			(at 179.07 115.57 0)
+			(at 179.07 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4345,7 +4400,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 179.07 115.57 0)
+			(at 179.07 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4356,7 +4411,29 @@
 			)
 		)
 		(property "Description" ""
-			(at 179.07 115.57 0)
+			(at 179.07 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Product Name" "B2415S-2WR3"
+			(at 179.07 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description P/N" "DC/DC"
+			(at 179.07 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4389,7 +4466,7 @@
 	)
 	(symbol
 		(lib_id "MORNSUN_my:B_S-2WR3")
-		(at 179.07 91.44 0)
+		(at 179.07 95.25 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4400,7 +4477,7 @@
 		(fields_autoplaced yes)
 		(uuid "1155be88-d609-442c-bf4e-fe6c69234ea6")
 		(property "Reference" "D20"
-			(at 179.07 88.9 0)
+			(at 179.07 92.71 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4410,7 +4487,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 177.8 95.25 0)
+			(at 177.8 99.06 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4421,7 +4498,7 @@
 			)
 		)
 		(property "Footprint" "MORNSUN:B_S-2WR3"
-			(at 179.07 91.44 0)
+			(at 179.07 95.25 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4432,7 +4509,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 179.07 91.44 0)
+			(at 179.07 95.25 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4443,7 +4520,29 @@
 			)
 		)
 		(property "Description" ""
-			(at 179.07 91.44 0)
+			(at 179.07 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Product Name" "B2415S-2WR3"
+			(at 179.07 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description P/N" "DC/DC"
+			(at 179.07 95.25 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4562,7 +4661,7 @@
 				)
 			)
 		)
-		(property "Description P/N" ""
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 128.27 138.43 0)
 			(hide yes)
 			(show_name no)
@@ -4718,7 +4817,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "LQH66SN100M03L"
+		(property "Datasheet" ""
 			(at 162.56 50.8 0)
 			(hide yes)
 			(show_name no)
@@ -4731,6 +4830,28 @@
 		)
 		(property "Description" "Inductor, small symbol"
 			(at 162.56 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Product Name" "LQH66SN100M03L"
+			(at 162.56 50.8 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description P/N" "Inductor SMD"
+			(at 162.56 50.8 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4799,7 +4920,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "EEUFR1J470"
+		(property "Datasheet" ""
 			(at 40.64 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -4811,6 +4932,28 @@
 			)
 		)
 		(property "Description" "Polarized capacitor, small symbol"
+			(at 40.64 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Product Name" "EEUFR1J470"
+			(at 40.64 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description P/N" "Capacitor electrolytic low ESR"
 			(at 40.64 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -4857,7 +5000,7 @@
 				)
 			)
 		)
-		(property "Value" "K7805-500R3"
+		(property "Value" ""
 			(at 67.31 46.99 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4900,6 +5043,28 @@
 				)
 			)
 		)
+		(property "Product Name" "K7805-500R3"
+			(at 67.31 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description P/N" "DC/DC"
+			(at 67.31 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "f9fb0d76-f514-45ed-8eb9-36704397c6e0")
 		)
@@ -4920,7 +5085,7 @@
 	)
 	(symbol
 		(lib_id "power:+24V")
-		(at 154.94 118.11 0)
+		(at 154.94 121.92 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4930,7 +5095,7 @@
 		(dnp no)
 		(uuid "27bceb21-01bd-48f0-bf3a-afca5d4a4440")
 		(property "Reference" "#PWR0103"
-			(at 154.94 121.92 0)
+			(at 154.94 125.73 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4941,7 +5106,7 @@
 			)
 		)
 		(property "Value" "+24V"
-			(at 154.94 114.3 0)
+			(at 154.94 118.11 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4951,7 +5116,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 154.94 118.11 0)
+			(at 154.94 121.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4962,7 +5127,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 154.94 118.11 0)
+			(at 154.94 121.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4973,7 +5138,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+24V\""
-			(at 154.94 118.11 0)
+			(at 154.94 121.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4997,7 +5162,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 167.64 97.79 180)
+		(at 167.64 101.6 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5007,7 +5172,7 @@
 		(dnp no)
 		(uuid "27de4873-7ef4-4fbd-aca6-3ae0a3e46a95")
 		(property "Reference" "C113"
-			(at 167.894 96.012 0)
+			(at 167.894 99.822 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5018,7 +5183,7 @@
 			)
 		)
 		(property "Value" "10u"
-			(at 167.894 99.568 0)
+			(at 167.894 103.378 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5029,7 +5194,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
-			(at 167.64 97.79 0)
+			(at 167.64 101.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5040,7 +5205,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 167.64 97.79 0)
+			(at 167.64 101.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5051,7 +5216,7 @@
 			)
 		)
 		(property "Description" "50V"
-			(at 167.64 97.79 0)
+			(at 167.64 101.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5062,7 +5227,7 @@
 			)
 		)
 		(property "Replacement" ""
-			(at 167.64 97.79 0)
+			(at 167.64 101.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5073,7 +5238,7 @@
 			)
 		)
 		(property "Description P/N" "Capacitor SMD 50V"
-			(at 167.64 97.79 0)
+			(at 167.64 101.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5084,7 +5249,7 @@
 			)
 		)
 		(property "Product Name" ""
-			(at 167.64 97.79 0)
+			(at 167.64 101.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5095,7 +5260,7 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 167.64 97.79 0)
+			(at 167.64 101.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5106,7 +5271,7 @@
 			)
 		)
 		(property "Sim.Pins" ""
-			(at 167.64 97.79 0)
+			(at 167.64 101.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5117,7 +5282,7 @@
 			)
 		)
 		(property "Sim.Type" ""
-			(at 167.64 97.79 0)
+			(at 167.64 101.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5264,7 +5429,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "EEUFR1J470"
+		(property "Datasheet" ""
 			(at 116.84 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -5276,6 +5441,28 @@
 			)
 		)
 		(property "Description" "Polarized capacitor, small symbol"
+			(at 116.84 105.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Product Name" ""
+			(at 116.84 105.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description P/N" "Capacitor tantalum SMD 10V"
 			(at 116.84 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -5655,7 +5842,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "URB_S-6WR3"
+		(property "Datasheet" ""
 			(at 69.85 100.076 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5666,6 +5853,28 @@
 			)
 		)
 		(property "Description" ""
+			(at 69.85 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Product Name" "URB_S-6WR3"
+			(at 69.85 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description P/N" "DC/DC"
 			(at 69.85 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -5783,7 +5992,7 @@
 				)
 			)
 		)
-		(property "Description P/N" "Resistor SMD"
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 113.03 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -6051,7 +6260,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "EEUFR1J470"
+		(property "Datasheet" ""
 			(at 104.14 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -6063,6 +6272,28 @@
 			)
 		)
 		(property "Description" "Polarized capacitor, small symbol"
+			(at 104.14 54.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Product Name" ""
+			(at 104.14 54.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description P/N" "Capacitor tantalum SMD 10V"
 			(at 104.14 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -6231,6 +6462,17 @@
 				)
 			)
 		)
+		(property "Description P/N" "Capacitor SMD 50V"
+			(at 154.94 54.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "6c0f6e18-ef9b-465a-993f-6ee95b0bcf04")
 		)
@@ -6334,7 +6576,7 @@
 				)
 			)
 		)
-		(property "Description P/N" ""
+		(property "Description P/N" "Capacitor SMD 50V"
 			(at 91.44 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -6592,6 +6834,17 @@
 				)
 			)
 		)
+		(property "Description P/N" "Capacitor SMD 50V"
+			(at 43.18 54.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "7335c011-48df-42ff-a81d-134581494479")
 		)
@@ -6686,7 +6939,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 167.64 121.92 180)
+		(at 167.64 125.73 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6696,7 +6949,7 @@
 		(dnp no)
 		(uuid "610f7510-2926-47c5-9dd9-b1446065a125")
 		(property "Reference" "C116"
-			(at 167.894 120.142 0)
+			(at 167.894 123.952 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6707,7 +6960,7 @@
 			)
 		)
 		(property "Value" "10u"
-			(at 167.894 123.698 0)
+			(at 167.894 127.508 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6718,7 +6971,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
-			(at 167.64 121.92 0)
+			(at 167.64 125.73 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6729,7 +6982,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 167.64 121.92 0)
+			(at 167.64 125.73 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6740,7 +6993,7 @@
 			)
 		)
 		(property "Description" "50V"
-			(at 167.64 121.92 0)
+			(at 167.64 125.73 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6751,7 +7004,7 @@
 			)
 		)
 		(property "Replacement" ""
-			(at 167.64 121.92 0)
+			(at 167.64 125.73 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6762,7 +7015,7 @@
 			)
 		)
 		(property "Description P/N" "Capacitor SMD 50V"
-			(at 167.64 121.92 0)
+			(at 167.64 125.73 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6773,7 +7026,7 @@
 			)
 		)
 		(property "Product Name" ""
-			(at 167.64 121.92 0)
+			(at 167.64 125.73 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6784,7 +7037,7 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 167.64 121.92 0)
+			(at 167.64 125.73 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6795,7 +7048,7 @@
 			)
 		)
 		(property "Sim.Pins" ""
-			(at 167.64 121.92 0)
+			(at 167.64 125.73 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6806,7 +7059,7 @@
 			)
 		)
 		(property "Sim.Type" ""
-			(at 167.64 121.92 0)
+			(at 167.64 125.73 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6833,7 +7086,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 189.23 97.79 180)
+		(at 189.23 101.6 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6843,7 +7096,7 @@
 		(dnp no)
 		(uuid "66e5dbd2-bd72-435a-b29a-c0113969f7a4")
 		(property "Reference" "C114"
-			(at 189.484 96.012 0)
+			(at 189.484 99.822 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6854,7 +7107,7 @@
 			)
 		)
 		(property "Value" "10u"
-			(at 189.484 99.568 0)
+			(at 189.484 103.378 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6865,7 +7118,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
-			(at 189.23 97.79 0)
+			(at 189.23 101.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6876,7 +7129,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 189.23 97.79 0)
+			(at 189.23 101.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6887,7 +7140,7 @@
 			)
 		)
 		(property "Description" "50V"
-			(at 189.23 97.79 0)
+			(at 189.23 101.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6898,7 +7151,7 @@
 			)
 		)
 		(property "Replacement" ""
-			(at 189.23 97.79 0)
+			(at 189.23 101.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6909,7 +7162,7 @@
 			)
 		)
 		(property "Description P/N" "Capacitor SMD 50V"
-			(at 189.23 97.79 0)
+			(at 189.23 101.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6920,7 +7173,7 @@
 			)
 		)
 		(property "Product Name" ""
-			(at 189.23 97.79 0)
+			(at 189.23 101.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6931,7 +7184,7 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 189.23 97.79 0)
+			(at 189.23 101.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6942,7 +7195,7 @@
 			)
 		)
 		(property "Sim.Pins" ""
-			(at 189.23 97.79 0)
+			(at 189.23 101.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6953,7 +7206,7 @@
 			)
 		)
 		(property "Sim.Type" ""
-			(at 189.23 97.79 0)
+			(at 189.23 101.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7167,7 +7420,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "LQH66SN100M03L"
+		(property "Datasheet" ""
 			(at 50.8 50.8 0)
 			(hide yes)
 			(show_name no)
@@ -7180,6 +7433,28 @@
 		)
 		(property "Description" "Inductor, small symbol"
 			(at 50.8 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Product Name" "LQH66SN100M03L"
+			(at 50.8 50.8 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description P/N" "Inductor SMD"
+			(at 50.8 50.8 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7303,7 +7578,7 @@
 				)
 			)
 		)
-		(property "Value" "AMS1117-3.3"
+		(property "Value" ""
 			(at 92.71 46.99 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7324,7 +7599,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/lm1117.pdf"
+		(property "Datasheet" ""
 			(at 92.71 50.8 0)
 			(hide yes)
 			(show_name no)
@@ -7423,6 +7698,28 @@
 				)
 			)
 		)
+		(property "Product Name" "AMS1117-3.3"
+			(at 92.71 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description P/N" "Linear regulator"
+			(at 92.71 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "3"
 			(uuid "6adaf86f-a0fc-4592-85d6-8de0e629eb19")
 		)
@@ -7443,7 +7740,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 189.23 121.92 180)
+		(at 189.23 125.73 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7453,7 +7750,7 @@
 		(dnp no)
 		(uuid "906a716b-b2b8-4f61-adbb-3ab299fa58dc")
 		(property "Reference" "C117"
-			(at 189.484 120.142 0)
+			(at 189.484 123.952 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7464,7 +7761,7 @@
 			)
 		)
 		(property "Value" "10u"
-			(at 189.484 123.698 0)
+			(at 189.484 127.508 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7475,7 +7772,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
-			(at 189.23 121.92 0)
+			(at 189.23 125.73 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7486,7 +7783,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 189.23 121.92 0)
+			(at 189.23 125.73 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7497,7 +7794,7 @@
 			)
 		)
 		(property "Description" "50V"
-			(at 189.23 121.92 0)
+			(at 189.23 125.73 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7508,7 +7805,7 @@
 			)
 		)
 		(property "Replacement" ""
-			(at 189.23 121.92 0)
+			(at 189.23 125.73 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7519,7 +7816,7 @@
 			)
 		)
 		(property "Description P/N" "Capacitor SMD 50V"
-			(at 189.23 121.92 0)
+			(at 189.23 125.73 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7530,7 +7827,7 @@
 			)
 		)
 		(property "Product Name" ""
-			(at 189.23 121.92 0)
+			(at 189.23 125.73 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7541,7 +7838,7 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 189.23 121.92 0)
+			(at 189.23 125.73 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7552,7 +7849,7 @@
 			)
 		)
 		(property "Sim.Pins" ""
-			(at 189.23 121.92 0)
+			(at 189.23 125.73 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7563,7 +7860,7 @@
 			)
 		)
 		(property "Sim.Type" ""
-			(at 189.23 121.92 0)
+			(at 189.23 125.73 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7590,7 +7887,7 @@
 	)
 	(symbol
 		(lib_id "Device:L_Small")
-		(at 162.56 93.98 90)
+		(at 162.56 97.79 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7600,7 +7897,7 @@
 		(dnp no)
 		(uuid "909e7705-ff4d-413c-a73f-73da0823a8a0")
 		(property "Reference" "L6"
-			(at 162.56 92.202 90)
+			(at 162.56 96.012 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7610,7 +7907,7 @@
 			)
 		)
 		(property "Value" "10u"
-			(at 162.56 95.25 90)
+			(at 162.56 99.06 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7620,7 +7917,7 @@
 			)
 		)
 		(property "Footprint" "Inductor_SMD:L_6.3x6.3_H3"
-			(at 162.56 93.98 0)
+			(at 162.56 97.79 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7630,8 +7927,8 @@
 				)
 			)
 		)
-		(property "Datasheet" "LQH66SN100M03L"
-			(at 162.56 93.98 0)
+		(property "Datasheet" ""
+			(at 162.56 97.79 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7642,7 +7939,29 @@
 			)
 		)
 		(property "Description" "Inductor, small symbol"
-			(at 162.56 93.98 0)
+			(at 162.56 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Product Name" "LQH66SN100M03L"
+			(at 162.56 97.79 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description P/N" "Inductor SMD"
+			(at 162.56 97.79 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7755,7 +8074,7 @@
 				)
 			)
 		)
-		(property "Description P/N" ""
+		(property "Description P/N" "Capacitor SMD 50V"
 			(at 52.07 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -7871,7 +8190,7 @@
 	)
 	(symbol
 		(lib_id "Device:L_Small")
-		(at 162.56 118.11 90)
+		(at 162.56 121.92 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7881,7 +8200,7 @@
 		(dnp no)
 		(uuid "96ce9bc8-4748-4900-bda5-1a85895370b6")
 		(property "Reference" "L7"
-			(at 162.56 116.332 90)
+			(at 162.56 120.142 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7891,7 +8210,7 @@
 			)
 		)
 		(property "Value" "10u"
-			(at 162.56 119.38 90)
+			(at 162.56 123.19 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7901,7 +8220,7 @@
 			)
 		)
 		(property "Footprint" "Inductor_SMD:L_6.3x6.3_H3"
-			(at 162.56 118.11 0)
+			(at 162.56 121.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7911,8 +8230,8 @@
 				)
 			)
 		)
-		(property "Datasheet" "LQH66SN100M03L"
-			(at 162.56 118.11 0)
+		(property "Datasheet" ""
+			(at 162.56 121.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7923,7 +8242,29 @@
 			)
 		)
 		(property "Description" "Inductor, small symbol"
-			(at 162.56 118.11 0)
+			(at 162.56 121.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Product Name" "LQH66SN100M03L"
+			(at 162.56 121.92 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description P/N" "Inductor SMD"
+			(at 162.56 121.92 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8113,7 +8454,7 @@
 				)
 			)
 		)
-		(property "Description P/N" ""
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 128.27 106.68 0)
 			(hide yes)
 			(show_name no)
@@ -8376,7 +8717,7 @@
 	)
 	(symbol
 		(lib_id "power:+24V")
-		(at 154.94 93.98 0)
+		(at 154.94 97.79 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8386,7 +8727,7 @@
 		(dnp no)
 		(uuid "b0a06322-b9df-4a77-a9e8-fe085c2ad575")
 		(property "Reference" "#PWR0102"
-			(at 154.94 97.79 0)
+			(at 154.94 101.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8397,7 +8738,7 @@
 			)
 		)
 		(property "Value" "+24V"
-			(at 154.94 90.17 0)
+			(at 154.94 93.98 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8407,7 +8748,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 154.94 93.98 0)
+			(at 154.94 97.79 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8418,7 +8759,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 154.94 93.98 0)
+			(at 154.94 97.79 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8429,7 +8770,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+24V\""
-			(at 154.94 93.98 0)
+			(at 154.94 97.79 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8784,7 +9125,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "LQH44PN4R7MP0L"
+		(property "Datasheet" ""
 			(at 46.99 96.52 0)
 			(hide yes)
 			(show_name no)
@@ -8797,6 +9138,28 @@
 		)
 		(property "Description" "Inductor, small symbol"
 			(at 46.99 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Product Name" "LQH44PN4R7MP0L"
+			(at 46.99 96.52 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description P/N" "Inductor SMD"
+			(at 46.99 96.52 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8919,7 +9282,7 @@
 				)
 			)
 		)
-		(property "Value" "K7815-500R3"
+		(property "Value" ""
 			(at 179.07 46.99 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8952,6 +9315,28 @@
 			)
 		)
 		(property "Description" ""
+			(at 179.07 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Product Name" "K7815-500R3"
+			(at 179.07 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description P/N" "DC/DC"
 			(at 179.07 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -9060,7 +9445,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 154.94 97.79 0)
+		(at 154.94 101.6 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9070,7 +9455,7 @@
 		(dnp no)
 		(uuid "c1898711-a539-4015-978b-03c7d08569d8")
 		(property "Reference" "C112"
-			(at 154.94 96.266 0)
+			(at 154.94 100.076 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9081,7 +9466,7 @@
 			)
 		)
 		(property "Value" "10u"
-			(at 155.194 99.568 0)
+			(at 155.194 103.378 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9092,7 +9477,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
-			(at 154.94 97.79 0)
+			(at 154.94 101.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9103,7 +9488,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 154.94 97.79 0)
+			(at 154.94 101.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9114,7 +9499,18 @@
 			)
 		)
 		(property "Description" ""
-			(at 154.94 97.79 0)
+			(at 154.94 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description P/N" "Capacitor SMD 50V"
+			(at 154.94 101.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9238,7 +9634,7 @@
 				)
 			)
 		)
-		(property "Value" "AMS1117-3.3"
+		(property "Value" ""
 			(at 105.41 124.46 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9259,7 +9655,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/lm1117.pdf"
+		(property "Datasheet" ""
 			(at 105.41 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -9358,6 +9754,28 @@
 				)
 			)
 		)
+		(property "Product Name" "AMS1117-3.3"
+			(at 105.41 128.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description P/N" "Linear regulator"
+			(at 105.41 128.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "3"
 			(uuid "00a55f91-26f1-40c5-94eb-2d03db9c968b")
 		)
@@ -9378,7 +9796,7 @@
 	)
 	(symbol
 		(lib_id "power:GNDPWR")
-		(at 154.94 127 0)
+		(at 154.94 130.81 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9389,7 +9807,7 @@
 		(fields_autoplaced yes)
 		(uuid "d593c86f-0e81-4417-97c3-7d09ba26bdfd")
 		(property "Reference" "#PWR0113"
-			(at 154.94 132.08 0)
+			(at 154.94 135.89 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9400,7 +9818,7 @@
 			)
 		)
 		(property "Value" "GNDPWR"
-			(at 154.813 130.81 0)
+			(at 154.813 134.62 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9410,7 +9828,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 154.94 128.27 0)
+			(at 154.94 132.08 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9421,7 +9839,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 154.94 128.27 0)
+			(at 154.94 132.08 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9432,7 +9850,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GNDPWR\" , global ground"
-			(at 154.94 127 0)
+			(at 154.94 130.81 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9456,7 +9874,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 154.94 121.92 0)
+		(at 154.94 125.73 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9466,7 +9884,7 @@
 		(dnp no)
 		(uuid "da66edab-eab4-4268-b265-72af52f25720")
 		(property "Reference" "C115"
-			(at 154.94 120.396 0)
+			(at 154.94 124.206 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9477,7 +9895,7 @@
 			)
 		)
 		(property "Value" "10u"
-			(at 155.194 123.698 0)
+			(at 155.194 127.508 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9488,7 +9906,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
-			(at 154.94 121.92 0)
+			(at 154.94 125.73 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9499,7 +9917,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 154.94 121.92 0)
+			(at 154.94 125.73 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9510,7 +9928,18 @@
 			)
 		)
 		(property "Description" ""
-			(at 154.94 121.92 0)
+			(at 154.94 125.73 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description P/N" "Capacitor SMD 50V"
+			(at 154.94 125.73 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10228,7 +10657,7 @@
 				)
 			)
 		)
-		(property "Value" "AMS1117-5.0"
+		(property "Value" ""
 			(at 105.41 92.71 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10249,7 +10678,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/lm1117.pdf"
+		(property "Datasheet" ""
 			(at 105.41 96.52 0)
 			(hide yes)
 			(show_name no)
@@ -10338,6 +10767,28 @@
 			)
 		)
 		(property "Mouser Price/Stock" ""
+			(at 105.41 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Product Name" "AMS1117-5.0"
+			(at 105.41 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description P/N" "Linear regulator"
 			(at 105.41 96.52 0)
 			(hide yes)
 			(show_name no)
@@ -10515,7 +10966,7 @@
 	)
 	(symbol
 		(lib_id "power:GNDPWR")
-		(at 154.94 102.87 0)
+		(at 154.94 106.68 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -10526,7 +10977,7 @@
 		(fields_autoplaced yes)
 		(uuid "f8aec905-bc12-42f7-b132-251fe77354b7")
 		(property "Reference" "#PWR0112"
-			(at 154.94 107.95 0)
+			(at 154.94 111.76 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10537,7 +10988,7 @@
 			)
 		)
 		(property "Value" "GNDPWR"
-			(at 154.813 106.68 0)
+			(at 154.813 110.49 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10547,7 +10998,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 154.94 104.14 0)
+			(at 154.94 107.95 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10558,7 +11009,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 154.94 104.14 0)
+			(at 154.94 107.95 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10569,7 +11020,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GNDPWR\" , global ground"
-			(at 154.94 102.87 0)
+			(at 154.94 106.68 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10679,7 +11130,7 @@
 				)
 			)
 		)
-		(property "Description P/N" ""
+		(property "Description P/N" "Capacitor SMD 50V"
 			(at 91.44 137.16 0)
 			(hide yes)
 			(show_name no)

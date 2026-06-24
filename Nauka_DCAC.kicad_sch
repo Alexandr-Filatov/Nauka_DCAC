@@ -3925,7 +3925,7 @@
 				)
 			)
 		)
-		(property "Description P/N" ""
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 237.49 191.77 0)
 			(hide yes)
 			(show_name no)
@@ -4125,7 +4125,7 @@
 				)
 			)
 		)
-		(property "Description P/N" ""
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 205.74 176.53 0)
 			(hide yes)
 			(show_name no)
@@ -4636,7 +4636,7 @@
 				)
 			)
 		)
-		(property "Description P/N" ""
+		(property "Description P/N" "Capacitor SMD 25V"
 			(at 238.76 158.75 0)
 			(hide yes)
 			(show_name no)
@@ -4914,7 +4914,7 @@
 				)
 			)
 		)
-		(property "Description P/N" ""
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 237.49 242.57 0)
 			(hide yes)
 			(show_name no)
@@ -5272,7 +5272,7 @@
 				)
 			)
 		)
-		(property "Description P/N" ""
+		(property "Description P/N" "Capacitor SMD 25V"
 			(at 242.57 246.38 0)
 			(hide yes)
 			(show_name no)
@@ -5679,7 +5679,7 @@
 				)
 			)
 		)
-		(property "Description P/N" ""
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 205.74 227.33 0)
 			(hide yes)
 			(show_name no)
@@ -5894,7 +5894,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "STM32F405RGTx"
+		(property "Value" ""
 			(at 87.2333 125.73 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5917,7 +5917,7 @@
 				(justify right)
 			)
 		)
-		(property "Datasheet" "https://www.st.com/resource/en/datasheet/stm32f405rg.pdf"
+		(property "Datasheet" ""
 			(at 82.55 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -5929,6 +5929,50 @@
 			)
 		)
 		(property "Description" "STMicroelectronics Arm Cortex-M4 MCU, 1024KB flash, 192KB RAM, 168 MHz, 1.8-3.6V, 51 GPIO, LQFP64"
+			(at 82.55 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Product Name" "STM32F405RGTx"
+			(at 82.55 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description P/N" "MCU"
+			(at 82.55 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Function" ""
+			(at 82.55 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Replacement" ""
 			(at 82.55 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -6383,7 +6427,7 @@
 				)
 			)
 		)
-		(property "Description P/N" ""
+		(property "Description P/N" "Capacitor SMD 25V"
 			(at 242.57 195.58 0)
 			(hide yes)
 			(show_name no)
@@ -6662,7 +6706,7 @@
 				)
 			)
 		)
-		(property "Description P/N" "Capacitor SMD 50V"
+		(property "Description P/N" "Capacitor SMD 25V"
 			(at 25.4 36.83 0)
 			(hide yes)
 			(show_name no)
@@ -6787,7 +6831,7 @@
 				)
 			)
 		)
-		(property "Description P/N" "Resistor SMD"
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 44.45 107.95 0)
 			(hide yes)
 			(show_name no)
@@ -7115,7 +7159,7 @@
 				)
 			)
 		)
-		(property "Description P/N" ""
+		(property "Description P/N" "Capacitor SMD 25V"
 			(at 191.77 232.41 0)
 			(hide yes)
 			(show_name no)
@@ -7395,7 +7439,7 @@
 				)
 			)
 		)
-		(property "Description P/N" "Resistor SMD"
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 36.83 107.95 0)
 			(hide yes)
 			(show_name no)
@@ -7520,7 +7564,7 @@
 				)
 			)
 		)
-		(property "Description P/N" ""
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 251.46 238.76 0)
 			(hide yes)
 			(show_name no)
@@ -7722,7 +7766,7 @@
 				)
 			)
 		)
-		(property "Description P/N" "Capacitor SMD 50V"
+		(property "Description P/N" "Capacitor SMD 25V"
 			(at 59.69 107.95 0)
 			(hide yes)
 			(show_name no)
@@ -7847,7 +7891,7 @@
 				)
 			)
 		)
-		(property "Description P/N" "Capacitor SMD 50V"
+		(property "Description P/N" "Capacitor SMD 25V"
 			(at 52.07 29.21 0)
 			(hide yes)
 			(show_name no)
@@ -8476,7 +8520,7 @@
 				)
 			)
 		)
-		(property "Description P/N" ""
+		(property "Description P/N" "Capacitor SMD 25V"
 			(at 238.76 209.55 0)
 			(hide yes)
 			(show_name no)
@@ -8910,7 +8954,7 @@
 				)
 			)
 		)
-		(property "Description P/N" ""
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 251.46 187.96 0)
 			(hide yes)
 			(show_name no)
@@ -9342,7 +9386,7 @@
 				)
 			)
 		)
-		(property "Description P/N" ""
+		(property "Description P/N" "Capacitor SMD 25V"
 			(at 238.76 217.17 0)
 			(hide yes)
 			(show_name no)
@@ -9556,7 +9600,7 @@
 				)
 			)
 		)
-		(property "Value" "TLV3501AIDBV"
+		(property "Value" ""
 			(at 217.17 223.4498 0)
 			(hide yes)
 			(show_name no)
@@ -9578,7 +9622,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/tlv3501.pdf"
+		(property "Datasheet" ""
 			(at 229.87 238.76 0)
 			(hide yes)
 			(show_name no)
@@ -9590,6 +9634,28 @@
 			)
 		)
 		(property "Description" "High-Speed Comparator, 4.5-ns, Rail-to-Rail, Push-Pull CMOS Output, SOT-23-6"
+			(at 229.87 227.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Product Name" "TLV3501AIDBV"
+			(at 229.87 227.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description P/N" "Comparator"
 			(at 229.87 227.33 0)
 			(hide yes)
 			(show_name no)
@@ -9713,7 +9779,7 @@
 				)
 			)
 		)
-		(property "Description P/N" ""
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 205.74 184.15 0)
 			(hide yes)
 			(show_name no)
@@ -9915,7 +9981,7 @@
 				)
 			)
 		)
-		(property "Description P/N" "Resistor SMD"
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 36.83 29.21 0)
 			(hide yes)
 			(show_name no)
@@ -10172,7 +10238,7 @@
 				)
 			)
 		)
-		(property "Value" "TLV3501AIDBV"
+		(property "Value" ""
 			(at 217.17 172.6498 0)
 			(hide yes)
 			(show_name no)
@@ -10194,7 +10260,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/tlv3501.pdf"
+		(property "Datasheet" ""
 			(at 229.87 187.96 0)
 			(hide yes)
 			(show_name no)
@@ -10206,6 +10272,28 @@
 			)
 		)
 		(property "Description" "High-Speed Comparator, 4.5-ns, Rail-to-Rail, Push-Pull CMOS Output, SOT-23-6"
+			(at 229.87 176.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Product Name" "TLV3501AIDBV"
+			(at 229.87 176.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description P/N" "Comparator"
 			(at 229.87 176.53 0)
 			(hide yes)
 			(show_name no)
@@ -10331,7 +10419,7 @@
 				)
 			)
 		)
-		(property "Description P/N" "Capacitor SMD 50V"
+		(property "Description P/N" "Capacitor SMD 25V"
 			(at 52.07 107.95 0)
 			(hide yes)
 			(show_name no)
@@ -10456,7 +10544,7 @@
 				)
 			)
 		)
-		(property "Description P/N" "Resistor SMD"
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 58.42 29.21 0)
 			(hide yes)
 			(show_name no)
@@ -10581,7 +10669,7 @@
 				)
 			)
 		)
-		(property "Description P/N" ""
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 251.46 195.58 0)
 			(hide yes)
 			(show_name no)
@@ -10909,7 +10997,7 @@
 				)
 			)
 		)
-		(property "Description P/N" ""
+		(property "Description P/N" "Capacitor SMD 25V"
 			(at 191.77 181.61 0)
 			(hide yes)
 			(show_name no)
@@ -10998,6 +11086,17 @@
 			)
 		)
 		(property "Mouser Price/Stock" ""
+			(at 191.77 181.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Function" ""
 			(at 191.77 181.61 0)
 			(hide yes)
 			(show_name no)
@@ -11111,7 +11210,7 @@
 				)
 			)
 		)
-		(property "Description P/N" ""
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 251.46 246.38 0)
 			(hide yes)
 			(show_name no)
@@ -11311,7 +11410,7 @@
 				)
 			)
 		)
-		(property "Description P/N" ""
+		(property "Description P/N" "Capacitor SMD 25V"
 			(at 238.76 166.37 0)
 			(hide yes)
 			(show_name no)
@@ -11976,7 +12075,7 @@
 				)
 			)
 		)
-		(property "Description P/N" ""
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 205.74 234.95 0)
 			(hide yes)
 			(show_name no)
@@ -12490,7 +12589,7 @@
 				)
 			)
 		)
-		(property "Description P/N" "Capacitor SMD 50V"
+		(property "Description P/N" "Capacitor SMD 25V"
 			(at 25.4 54.61 0)
 			(hide yes)
 			(show_name no)

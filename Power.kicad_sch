@@ -8396,7 +8396,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder"
 			(at 78.74 262.89 0)
 			(hide yes)
 			(show_name no)
@@ -8453,6 +8453,28 @@
 		)
 		(property "Sim.Type" ""
 			(at 78.74 262.89 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description P/N" "Capacitor SMD 200V"
+			(at 78.74 262.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Product Name" "1210B474K201CT"
+			(at 78.74 262.89 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8816,6 +8838,17 @@
 				)
 			)
 		)
+		(property "Description P/N" "Resistor SMD 0.1%"
+			(at 153.67 199.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "1e43e6c3-f6be-4a3f-a5a6-09fa8ae1ea69")
 		)
@@ -8852,7 +8885,7 @@
 				)
 			)
 		)
-		(property "Value" "CH704150CT"
+		(property "Value" ""
 			(at 157.48 191.6998 0)
 			(hide yes)
 			(show_name no)
@@ -8874,7 +8907,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.allegromicro.com/~/media/Files/Datasheets/ACS756-Datasheet.ashx?la=en"
+		(property "Datasheet" ""
 			(at 142.24 195.58 0)
 			(hide yes)
 			(show_name no)
@@ -8919,6 +8952,28 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 142.24 195.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Product Name" "CH704150CT"
+			(at 142.24 195.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description P/N" "Current sensor"
 			(at 142.24 195.58 0)
 			(hide yes)
 			(show_name no)
@@ -9052,7 +9107,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Conn_01x01"
+		(property "Value" ""
 			(at 304.7999 71.12 90)
 			(hide yes)
 			(show_name no)
@@ -9173,7 +9228,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder"
 			(at 91.44 254 0)
 			(hide yes)
 			(show_name no)
@@ -9230,6 +9285,28 @@
 		)
 		(property "Sim.Type" ""
 			(at 91.44 254 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description P/N" "Capacitor SMD 200V"
+			(at 91.44 254 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Product Name" "1210B474K201CT"
+			(at 91.44 254 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9353,6 +9430,17 @@
 				)
 			)
 		)
+		(property "Description P/N" "Resistor SMD 0.1%"
+			(at 153.67 207.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "9e142569-e25c-42dd-8373-ca75993e07fb")
 		)
@@ -9399,7 +9487,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder"
 			(at 104.14 271.78 0)
 			(hide yes)
 			(show_name no)
@@ -9465,6 +9553,28 @@
 				)
 			)
 		)
+		(property "Description P/N" "Capacitor SMD 200V"
+			(at 104.14 271.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Product Name" "1210B474K201CT"
+			(at 104.14 271.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "ec3be070-ed44-4e89-9122-9565d8536541")
 		)
@@ -9503,7 +9613,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "WMK115N15HG2"
+		(property "Value" ""
 			(at 199.39 86.3599 0)
 			(hide yes)
 			(show_name no)
@@ -9528,7 +9638,7 @@
 				(justify left)
 			)
 		)
-		(property "Datasheet" "WMK115N15HG2"
+		(property "Datasheet" ""
 			(at 198.12 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -9574,6 +9684,28 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 193.04 85.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Product Name" "WMK115N15HG2"
+			(at 193.04 85.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description P/N" "MOSFET"
 			(at 193.04 85.09 0)
 			(hide yes)
 			(show_name no)
@@ -9690,6 +9822,17 @@
 		)
 		(property "Sim.Type" ""
 			(at 344.17 147.32 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description P/N" "Capacitor SMD 25V"
+			(at 344.17 147.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9965,6 +10108,17 @@
 				)
 			)
 		)
+		(property "Description P/N" "Capacitor SMD 25V"
+			(at 320.04 147.32 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "840598ba-2c95-4765-aed8-8dfc1c544c27")
 		)
@@ -10088,7 +10242,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder"
 			(at 116.84 262.89 0)
 			(hide yes)
 			(show_name no)
@@ -10145,6 +10299,28 @@
 		)
 		(property "Sim.Type" ""
 			(at 116.84 262.89 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description P/N" "Capacitor SMD 200V"
+			(at 116.84 262.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Product Name" "1210B474K201CT"
+			(at 116.84 262.89 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10258,6 +10434,17 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 273.05 242.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 273.05 242.57 0)
 			(hide yes)
 			(show_name no)
@@ -10382,6 +10569,50 @@
 				)
 			)
 		)
+		(property "Description P/N" "Resistor SMD 0.1%"
+			(at 223.52 46.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Product Name" ""
+			(at 223.52 46.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Function" ""
+			(at 223.52 46.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Replacement" ""
+			(at 223.52 46.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "8a8caf5e-5306-4aa2-8276-a383653304d0")
 		)
@@ -10428,7 +10659,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder"
 			(at 116.84 254 0)
 			(hide yes)
 			(show_name no)
@@ -10485,6 +10716,28 @@
 		)
 		(property "Sim.Type" ""
 			(at 116.84 254 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description P/N" "Capacitor SMD 200V"
+			(at 116.84 254 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Product Name" "1210B474K201CT"
+			(at 116.84 254 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10596,6 +10849,17 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 147.32 177.8 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description P/N" "Capacitor SMD 25V"
 			(at 147.32 177.8 90)
 			(hide yes)
 			(show_name no)
@@ -11026,6 +11290,17 @@
 				)
 			)
 		)
+		(property "Description P/N" "Capacitor SMD 25V"
+			(at 85.09 177.8 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "639838ec-bb7b-41d6-85ea-0110aeeafd61")
 		)
@@ -11140,6 +11415,17 @@
 				)
 			)
 		)
+		(property "Description P/N" "Resistor SMD 1%"
+			(at 240.03 264.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "761bd786-a0ff-4782-bcaf-7699207f514f")
 		)
@@ -11177,7 +11463,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "WMK115N15HG2"
+		(property "Value" ""
 			(at 129.54 160.0199 0)
 			(hide yes)
 			(show_name no)
@@ -11202,7 +11488,7 @@
 				(justify left)
 			)
 		)
-		(property "Datasheet" "WMK115N15HG2"
+		(property "Datasheet" ""
 			(at 128.27 162.56 0)
 			(hide yes)
 			(show_name no)
@@ -11248,6 +11534,28 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 123.19 158.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Product Name" "WMK115N15HG2"
+			(at 123.19 158.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description P/N" "MOSFET"
 			(at 123.19 158.75 0)
 			(hide yes)
 			(show_name no)
@@ -11532,7 +11840,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder"
 			(at 104.14 245.11 0)
 			(hide yes)
 			(show_name no)
@@ -11589,6 +11897,28 @@
 		)
 		(property "Sim.Type" ""
 			(at 104.14 245.11 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description P/N" "Capacitor SMD 200V"
+			(at 104.14 245.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Product Name" "1210B474K201CT"
+			(at 104.14 245.11 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11644,7 +11974,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder"
 			(at 97.79 271.78 0)
 			(hide yes)
 			(show_name no)
@@ -11701,6 +12031,28 @@
 		)
 		(property "Sim.Type" ""
 			(at 97.79 271.78 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description P/N" "Capacitor SMD 200V"
+			(at 97.79 271.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Product Name" "1210B474K201CT"
+			(at 97.79 271.78 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11756,7 +12108,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder"
 			(at 72.39 245.11 0)
 			(hide yes)
 			(show_name no)
@@ -11813,6 +12165,28 @@
 		)
 		(property "Sim.Type" ""
 			(at 72.39 245.11 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description P/N" "Capacitor SMD 200V"
+			(at 72.39 245.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Product Name" "1210B474K201CT"
+			(at 72.39 245.11 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11934,6 +12308,17 @@
 				)
 			)
 		)
+		(property "Description P/N" "Capacitor SMD 50V"
+			(at 237.49 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "93022f47-e7ad-432e-88b5-431d45cf3e2f")
 		)
@@ -11972,7 +12357,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "WMK115N15HG2"
+		(property "Value" ""
 			(at 199.39 153.6699 0)
 			(hide yes)
 			(show_name no)
@@ -11997,7 +12382,7 @@
 				(justify left)
 			)
 		)
-		(property "Datasheet" "WMK115N15HG2"
+		(property "Datasheet" ""
 			(at 198.12 156.21 0)
 			(hide yes)
 			(show_name no)
@@ -12043,6 +12428,28 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 193.04 152.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Product Name" "WMK115N15HG2"
+			(at 193.04 152.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description P/N" "MOSFET"
 			(at 193.04 152.4 0)
 			(hide yes)
 			(show_name no)
@@ -12102,7 +12509,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder"
 			(at 78.74 236.22 0)
 			(hide yes)
 			(show_name no)
@@ -12159,6 +12566,28 @@
 		)
 		(property "Sim.Type" ""
 			(at 78.74 236.22 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description P/N" "Capacitor SMD 200V"
+			(at 78.74 236.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Product Name" "1210B474K201CT"
+			(at 78.74 236.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12214,7 +12643,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder"
 			(at 110.49 245.11 0)
 			(hide yes)
 			(show_name no)
@@ -12271,6 +12700,28 @@
 		)
 		(property "Sim.Type" ""
 			(at 110.49 245.11 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description P/N" "Capacitor SMD 200V"
+			(at 110.49 245.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Product Name" "1210B474K201CT"
+			(at 110.49 245.11 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12392,6 +12843,17 @@
 				)
 			)
 		)
+		(property "Description P/N" "Capacitor SMD 25V"
+			(at 326.39 147.32 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "a2dcd827-ba90-4492-92af-30eb426304ca")
 		)
@@ -12438,7 +12900,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder"
 			(at 66.04 254 0)
 			(hide yes)
 			(show_name no)
@@ -12495,6 +12957,28 @@
 		)
 		(property "Sim.Type" ""
 			(at 66.04 254 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description P/N" "Capacitor SMD 200V"
+			(at 66.04 254 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Product Name" "1210B474K201CT"
+			(at 66.04 254 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12696,6 +13180,17 @@
 				)
 			)
 		)
+		(property "Description P/N" "Resistor SMD 1%"
+			(at 168.91 267.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "1937ec5a-9608-4a4d-af86-b653d4ffd088")
 		)
@@ -12820,7 +13315,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder"
 			(at 116.84 271.78 0)
 			(hide yes)
 			(show_name no)
@@ -12877,6 +13372,28 @@
 		)
 		(property "Sim.Type" ""
 			(at 116.84 271.78 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description P/N" "Capacitor SMD 200V"
+			(at 116.84 271.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Product Name" "1210B474K201CT"
+			(at 116.84 271.78 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12932,7 +13449,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder"
 			(at 91.44 271.78 0)
 			(hide yes)
 			(show_name no)
@@ -12989,6 +13506,28 @@
 		)
 		(property "Sim.Type" ""
 			(at 91.44 271.78 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description P/N" "Capacitor SMD 200V"
+			(at 91.44 271.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Product Name" "1210B474K201CT"
+			(at 91.44 271.78 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13088,7 +13627,7 @@
 				)
 			)
 		)
-		(property "Description P/N" "Resistor SMD"
+		(property "Description P/N" "Resistor SMD 0.1%"
 			(at 307.34 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -13255,6 +13794,17 @@
 				)
 			)
 		)
+		(property "Description P/N" "Resistor SMD 1%"
+			(at 351.79 132.08 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "3e15f2a7-d1bb-4aaa-8c4e-9bf73fd38399")
 		)
@@ -13301,7 +13851,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder"
 			(at 72.39 262.89 0)
 			(hide yes)
 			(show_name no)
@@ -13358,6 +13908,28 @@
 		)
 		(property "Sim.Type" ""
 			(at 72.39 262.89 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description P/N" "Capacitor SMD 200V"
+			(at 72.39 262.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Product Name" "1210B474K201CT"
+			(at 72.39 262.89 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13426,7 +13998,7 @@
 				(justify left)
 			)
 		)
-		(property "Datasheet" "OPA333AIDBVR"
+		(property "Datasheet" ""
 			(at 375.92 124.46 0)
 			(hide yes)
 			(show_name no)
@@ -13723,6 +14295,17 @@
 				)
 			)
 		)
+		(property "Description P/N" "Capacitor SMD 25V"
+			(at 194.31 53.34 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "ec5dbdce-95eb-4ece-9c6b-971ae546dcb9")
 		)
@@ -13769,7 +14352,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder"
 			(at 97.79 236.22 0)
 			(hide yes)
 			(show_name no)
@@ -13826,6 +14409,28 @@
 		)
 		(property "Sim.Type" ""
 			(at 97.79 236.22 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description P/N" "Capacitor SMD 200V"
+			(at 97.79 236.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Product Name" "1210B474K201CT"
+			(at 97.79 236.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13881,7 +14486,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder"
 			(at 123.19 262.89 0)
 			(hide yes)
 			(show_name no)
@@ -13938,6 +14543,28 @@
 		)
 		(property "Sim.Type" ""
 			(at 123.19 262.89 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description P/N" "Capacitor SMD 200V"
+			(at 123.19 262.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Product Name" "1210B474K201CT"
+			(at 123.19 262.89 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14059,6 +14686,17 @@
 				)
 			)
 		)
+		(property "Description P/N" "Capacitor SMD 50V"
+			(at 242.57 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "2aa02884-2e3d-4c39-bb60-a14fdfe09809")
 		)
@@ -14163,6 +14801,17 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 240.03 242.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 240.03 242.57 0)
 			(hide yes)
 			(show_name no)
@@ -14362,6 +15011,17 @@
 				)
 			)
 		)
+		(property "Description P/N" "Resistor SMD 1%"
+			(at 356.87 123.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "d79d2a6f-7afa-4ed9-b467-66342c63235c")
 		)
@@ -14408,7 +15068,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder"
 			(at 110.49 262.89 0)
 			(hide yes)
 			(show_name no)
@@ -14465,6 +15125,28 @@
 		)
 		(property "Sim.Type" ""
 			(at 110.49 262.89 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description P/N" "Capacitor SMD 200V"
+			(at 110.49 262.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Product Name" "1210B474K201CT"
+			(at 110.49 262.89 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14573,7 +15255,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -14665,6 +15347,50 @@
 				)
 			)
 		)
+		(property "Product Name" ""
+			(at 228.6 140.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description P/N" ""
+			(at 228.6 140.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Function" ""
+			(at 228.6 140.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Replacement" ""
+			(at 228.6 140.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "af2d5bd6-988d-47fe-b17f-696425a9857f")
 		)
@@ -14711,7 +15437,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder"
 			(at 78.74 271.78 0)
 			(hide yes)
 			(show_name no)
@@ -14768,6 +15494,28 @@
 		)
 		(property "Sim.Type" ""
 			(at 78.74 271.78 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description P/N" "Capacitor SMD 200V"
+			(at 78.74 271.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Product Name" "1210B474K201CT"
+			(at 78.74 271.78 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14881,6 +15629,17 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 91.44 207.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description P/N" "Resistor SMD 0.1%"
 			(at 91.44 207.01 0)
 			(hide yes)
 			(show_name no)
@@ -15156,6 +15915,17 @@
 				)
 			)
 		)
+		(property "Description P/N" "Capacitor SMD 25V"
+			(at 364.49 123.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "7e9441d0-a4a5-4f4d-96de-8e081e03df46")
 		)
@@ -15202,7 +15972,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder"
 			(at 97.79 245.11 0)
 			(hide yes)
 			(show_name no)
@@ -15259,6 +16029,28 @@
 		)
 		(property "Sim.Type" ""
 			(at 97.79 245.11 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description P/N" "Capacitor SMD 200V"
+			(at 97.79 245.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Product Name" "1210B474K201CT"
+			(at 97.79 245.11 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15383,6 +16175,17 @@
 				)
 			)
 		)
+		(property "Description P/N" "Resistor SMD 1%"
+			(at 189.23 267.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "b2039493-3644-4194-a591-76350a78dff7")
 		)
@@ -15420,7 +16223,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "WMK115N15HG2"
+		(property "Value" ""
 			(at 67.31 147.3199 0)
 			(hide yes)
 			(show_name no)
@@ -15445,7 +16248,7 @@
 				(justify left)
 			)
 		)
-		(property "Datasheet" "WMK115N15HG2"
+		(property "Datasheet" ""
 			(at 66.04 149.86 0)
 			(hide yes)
 			(show_name no)
@@ -15491,6 +16294,28 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 60.96 146.05 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Product Name" "WMK115N15HG2"
+			(at 60.96 146.05 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description P/N" "MOSFET"
 			(at 60.96 146.05 0)
 			(hide yes)
 			(show_name no)
@@ -15782,7 +16607,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder"
 			(at 104.14 262.89 0)
 			(hide yes)
 			(show_name no)
@@ -15839,6 +16664,28 @@
 		)
 		(property "Sim.Type" ""
 			(at 104.14 262.89 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description P/N" "Capacitor SMD 200V"
+			(at 104.14 262.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Product Name" "1210B474K201CT"
+			(at 104.14 262.89 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16125,7 +16972,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder"
 			(at 66.04 236.22 0)
 			(hide yes)
 			(show_name no)
@@ -16182,6 +17029,28 @@
 		)
 		(property "Sim.Type" ""
 			(at 66.04 236.22 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description P/N" "Capacitor SMD 200V"
+			(at 66.04 236.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Product Name" "1210B474K201CT"
+			(at 66.04 236.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16306,6 +17175,17 @@
 				)
 			)
 		)
+		(property "Description P/N" "Resistor SMD 1%"
+			(at 168.91 250.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "df6a4b3d-b05e-4c3b-a3d2-2a152716ca3b")
 		)
@@ -16352,7 +17232,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder"
 			(at 110.49 271.78 0)
 			(hide yes)
 			(show_name no)
@@ -16418,6 +17298,28 @@
 				)
 			)
 		)
+		(property "Description P/N" "Capacitor SMD 200V"
+			(at 110.49 271.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Product Name" "1210B474K201CT"
+			(at 110.49 271.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "4afa6765-2d26-44cc-ad35-ffe88a5d50ea")
 		)
@@ -16455,7 +17357,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Conn_01x01"
+		(property "Value" ""
 			(at 134.62 204.4699 90)
 			(hide yes)
 			(show_name no)
@@ -16642,6 +17544,17 @@
 				)
 			)
 		)
+		(property "Description P/N" "Resistor SMD 1%"
+			(at 313.69 125.73 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "d0b55188-1ba2-485c-a4c5-72c2282104a8")
 		)
@@ -16688,7 +17601,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder"
 			(at 116.84 245.11 0)
 			(hide yes)
 			(show_name no)
@@ -16745,6 +17658,28 @@
 		)
 		(property "Sim.Type" ""
 			(at 116.84 245.11 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description P/N" "Capacitor SMD 200V"
+			(at 116.84 245.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Product Name" "1210B474K201CT"
+			(at 116.84 245.11 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16866,6 +17801,17 @@
 				)
 			)
 		)
+		(property "Description P/N" "Capacitor SMD 25V"
+			(at 85.09 185.42 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "fe00895d-6ffa-4739-b9fc-46ae2d35c8c5")
 		)
@@ -16912,7 +17858,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder"
 			(at 123.19 236.22 0)
 			(hide yes)
 			(show_name no)
@@ -16969,6 +17915,28 @@
 		)
 		(property "Sim.Type" ""
 			(at 123.19 236.22 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description P/N" "Capacitor SMD 200V"
+			(at 123.19 236.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Product Name" "1210B474K201CT"
+			(at 123.19 236.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17090,6 +18058,17 @@
 				)
 			)
 		)
+		(property "Description P/N" "Capacitor SMD 25V"
+			(at 350.52 147.32 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "649649b2-6dd5-4146-b602-9831bb6bb1ee")
 		)
@@ -17136,7 +18115,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder"
 			(at 72.39 236.22 0)
 			(hide yes)
 			(show_name no)
@@ -17193,6 +18172,28 @@
 		)
 		(property "Sim.Type" ""
 			(at 72.39 236.22 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description P/N" "Capacitor SMD 200V"
+			(at 72.39 236.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Product Name" "1210B474K201CT"
+			(at 72.39 236.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17292,7 +18293,7 @@
 				)
 			)
 		)
-		(property "Description P/N" "Resistor SMD"
+		(property "Description P/N" "Resistor SMD 0.1%"
 			(at 295.91 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -17462,6 +18463,17 @@
 				)
 			)
 		)
+		(property "Description P/N" "Resistor SMD 1%"
+			(at 146.05 250.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "6e99f4bb-fe94-4328-bca6-5bdb661b95ca")
 		)
@@ -17574,6 +18586,17 @@
 				)
 			)
 		)
+		(property "Description P/N" "Resistor SMD 1%"
+			(at 351.79 127 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "8dcc8c5e-2c85-4969-bc49-62d29fb90de9")
 		)
@@ -17620,7 +18643,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder"
 			(at 78.74 254 0)
 			(hide yes)
 			(show_name no)
@@ -17677,6 +18700,28 @@
 		)
 		(property "Sim.Type" ""
 			(at 78.74 254 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description P/N" "Capacitor SMD 200V"
+			(at 78.74 254 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Product Name" "1210B474K201CT"
+			(at 78.74 254 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17776,7 +18821,7 @@
 				)
 			)
 		)
-		(property "Description P/N" "Resistor SMD"
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 288.29 124.46 0)
 			(hide yes)
 			(show_name no)
@@ -17888,7 +18933,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder"
 			(at 85.09 262.89 0)
 			(hide yes)
 			(show_name no)
@@ -17945,6 +18990,28 @@
 		)
 		(property "Sim.Type" ""
 			(at 85.09 262.89 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description P/N" "Capacitor SMD 200V"
+			(at 85.09 262.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Product Name" "1210B474K201CT"
+			(at 85.09 262.89 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18066,6 +19133,17 @@
 				)
 			)
 		)
+		(property "Description P/N" "Capacitor SMD 25V"
+			(at 147.32 185.42 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "f9378a83-b51d-4dca-89df-e90b8218fcfa")
 		)
@@ -18103,7 +19181,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "WMK115N15HG2"
+		(property "Value" ""
 			(at 99.06 160.0199 0)
 			(hide yes)
 			(show_name no)
@@ -18128,7 +19206,7 @@
 				(justify left)
 			)
 		)
-		(property "Datasheet" "WMK115N15HG2"
+		(property "Datasheet" ""
 			(at 97.79 162.56 0)
 			(hide yes)
 			(show_name no)
@@ -18174,6 +19252,28 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 92.71 158.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Product Name" "WMK115N15HG2"
+			(at 92.71 158.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description P/N" "MOSFET"
 			(at 92.71 158.75 0)
 			(hide yes)
 			(show_name no)
@@ -18233,7 +19333,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder"
 			(at 104.14 236.22 0)
 			(hide yes)
 			(show_name no)
@@ -18290,6 +19390,28 @@
 		)
 		(property "Sim.Type" ""
 			(at 104.14 236.22 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description P/N" "Capacitor SMD 200V"
+			(at 104.14 236.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Product Name" "1210B474K201CT"
+			(at 104.14 236.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18345,7 +19467,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder"
 			(at 104.14 254 0)
 			(hide yes)
 			(show_name no)
@@ -18402,6 +19524,28 @@
 		)
 		(property "Sim.Type" ""
 			(at 104.14 254 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description P/N" "Capacitor SMD 200V"
+			(at 104.14 254 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Product Name" "1210B474K201CT"
+			(at 104.14 254 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18470,7 +19614,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "EXR102M63B"
+		(property "Datasheet" ""
 			(at 251.46 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -18482,6 +19626,28 @@
 			)
 		)
 		(property "Description" "Polarized capacitor"
+			(at 251.46 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Product Name" "EXR102M63B"
+			(at 251.46 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description P/N" "Capacitor electrolytic low ESR"
 			(at 251.46 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -18615,7 +19781,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder"
 			(at 116.84 236.22 0)
 			(hide yes)
 			(show_name no)
@@ -18672,6 +19838,28 @@
 		)
 		(property "Sim.Type" ""
 			(at 116.84 236.22 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description P/N" "Capacitor SMD 200V"
+			(at 116.84 236.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Product Name" "1210B474K201CT"
+			(at 116.84 236.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18926,7 +20114,7 @@
 				)
 			)
 		)
-		(property "Description P/N" "Resistor SMD"
+		(property "Description P/N" "Resistor SMD 0.1%"
 			(at 307.34 121.92 0)
 			(hide yes)
 			(show_name no)
@@ -19018,7 +20206,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "WMK115N15HG2"
+		(property "Value" ""
 			(at 129.54 147.3199 0)
 			(hide yes)
 			(show_name no)
@@ -19043,7 +20231,7 @@
 				(justify left)
 			)
 		)
-		(property "Datasheet" "WMK115N15HG2"
+		(property "Datasheet" ""
 			(at 128.27 149.86 0)
 			(hide yes)
 			(show_name no)
@@ -19089,6 +20277,28 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 123.19 146.05 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Product Name" "WMK115N15HG2"
+			(at 123.19 146.05 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description P/N" "MOSFET"
 			(at 123.19 146.05 0)
 			(hide yes)
 			(show_name no)
@@ -19161,7 +20371,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "EXR102M63B"
+		(property "Datasheet" ""
 			(at 251.46 153.67 0)
 			(hide yes)
 			(show_name no)
@@ -19173,6 +20383,28 @@
 			)
 		)
 		(property "Description" "Polarized capacitor"
+			(at 251.46 153.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Product Name" "EXR102M63B"
+			(at 251.46 153.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description P/N" "Capacitor electrolytic low ESR"
 			(at 251.46 153.67 0)
 			(hide yes)
 			(show_name no)
@@ -19286,6 +20518,17 @@
 		)
 		(property "Sim.Type" ""
 			(at 242.57 153.67 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description P/N" "Capacitor SMD 50V"
+			(at 242.57 153.67 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19418,7 +20661,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder"
 			(at 72.39 254 0)
 			(hide yes)
 			(show_name no)
@@ -19484,6 +20727,28 @@
 				)
 			)
 		)
+		(property "Description P/N" "Capacitor SMD 200V"
+			(at 72.39 254 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Product Name" "1210B474K201CT"
+			(at 72.39 254 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "d25caff0-266f-4df7-bcbd-ef168daae9ad")
 		)
@@ -19521,7 +20786,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Conn_01x01"
+		(property "Value" ""
 			(at 304.7999 161.29 90)
 			(hide yes)
 			(show_name no)
@@ -19642,7 +20907,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder"
 			(at 72.39 271.78 0)
 			(hide yes)
 			(show_name no)
@@ -19699,6 +20964,28 @@
 		)
 		(property "Sim.Type" ""
 			(at 72.39 271.78 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description P/N" "Capacitor SMD 200V"
+			(at 72.39 271.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Product Name" "1210B474K201CT"
+			(at 72.39 271.78 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19822,6 +21109,17 @@
 				)
 			)
 		)
+		(property "Description P/N" "Resistor SMD 0.1%"
+			(at 91.44 199.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "9fcb78c3-00e8-41b5-806d-7ad6eda043bd")
 		)
@@ -19868,7 +21166,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder"
 			(at 110.49 236.22 0)
 			(hide yes)
 			(show_name no)
@@ -19925,6 +21223,28 @@
 		)
 		(property "Sim.Type" ""
 			(at 110.49 236.22 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description P/N" "Capacitor SMD 200V"
+			(at 110.49 236.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Product Name" "1210B474K201CT"
+			(at 110.49 236.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20048,7 +21368,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Conn_01x01"
+		(property "Value" ""
 			(at 72.39 204.4699 90)
 			(hide yes)
 			(show_name no)
@@ -20391,6 +21711,17 @@
 				)
 			)
 		)
+		(property "Description P/N" "Resistor SMD 1%"
+			(at 356.87 135.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "bb0cc72a-7da8-417a-9117-2a3693882c46")
 		)
@@ -20437,7 +21768,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder"
 			(at 91.44 262.89 0)
 			(hide yes)
 			(show_name no)
@@ -20494,6 +21825,28 @@
 		)
 		(property "Sim.Type" ""
 			(at 91.44 262.89 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description P/N" "Capacitor SMD 200V"
+			(at 91.44 262.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Product Name" "1210B474K201CT"
+			(at 91.44 262.89 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20627,7 +21980,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder"
 			(at 123.19 271.78 0)
 			(hide yes)
 			(show_name no)
@@ -20684,6 +22037,28 @@
 		)
 		(property "Sim.Type" ""
 			(at 123.19 271.78 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description P/N" "Capacitor SMD 200V"
+			(at 123.19 271.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Product Name" "1210B474K201CT"
+			(at 123.19 271.78 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20808,6 +22183,17 @@
 				)
 			)
 		)
+		(property "Description P/N" "Resistor SMD 1%"
+			(at 157.48 250.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "2ec2efa1-c0ff-40d6-b35f-e80cd86f35ad")
 		)
@@ -20922,6 +22308,17 @@
 				)
 			)
 		)
+		(property "Description P/N" "Resistor SMD 1%"
+			(at 207.01 264.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "54338ce6-9ef2-4707-83cf-46dc6e9105b8")
 		)
@@ -20968,7 +22365,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder"
 			(at 66.04 245.11 0)
 			(hide yes)
 			(show_name no)
@@ -21034,6 +22431,28 @@
 				)
 			)
 		)
+		(property "Description P/N" "Capacitor SMD 200V"
+			(at 66.04 245.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Product Name" "1210B474K201CT"
+			(at 66.04 245.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "c2533b37-d606-4a14-ac33-cbd10f6a7f4b")
 		)
@@ -21071,7 +22490,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "WMK115N15HG2"
+		(property "Value" ""
 			(at 99.06 147.3199 0)
 			(hide yes)
 			(show_name no)
@@ -21096,7 +22515,7 @@
 				(justify left)
 			)
 		)
-		(property "Datasheet" "WMK115N15HG2"
+		(property "Datasheet" ""
 			(at 97.79 149.86 0)
 			(hide yes)
 			(show_name no)
@@ -21142,6 +22561,28 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 92.71 146.05 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Product Name" "WMK115N15HG2"
+			(at 92.71 146.05 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description P/N" "MOSFET"
 			(at 92.71 146.05 0)
 			(hide yes)
 			(show_name no)
@@ -21270,6 +22711,17 @@
 				)
 			)
 		)
+		(property "Description P/N" "Resistor SMD 1%"
+			(at 179.07 250.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "047e8e24-3262-441a-b798-c49146bcd948")
 		)
@@ -21384,6 +22836,17 @@
 				)
 			)
 		)
+		(property "Description P/N" "Resistor SMD 1%"
+			(at 256.54 242.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "e2074588-3613-4143-b3d5-2c269ddeecfa")
 		)
@@ -21474,7 +22937,7 @@
 				)
 			)
 		)
-		(property "Description P/N" "Resistor SMD"
+		(property "Description P/N" "Resistor SMD 0.1%"
 			(at 303.53 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -21575,7 +23038,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder"
 			(at 110.49 254 0)
 			(hide yes)
 			(show_name no)
@@ -21632,6 +23095,28 @@
 		)
 		(property "Sim.Type" ""
 			(at 110.49 254 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description P/N" "Capacitor SMD 200V"
+			(at 110.49 254 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Product Name" "1210B474K201CT"
+			(at 110.49 254 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21996,7 +23481,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder"
 			(at 91.44 236.22 0)
 			(hide yes)
 			(show_name no)
@@ -22053,6 +23538,28 @@
 		)
 		(property "Sim.Type" ""
 			(at 91.44 236.22 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description P/N" "Capacitor SMD 200V"
+			(at 91.44 236.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Product Name" "1210B474K201CT"
+			(at 91.44 236.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22175,7 +23682,7 @@
 				)
 			)
 		)
-		(property "Value" "CH704150CT"
+		(property "Value" ""
 			(at 208.2098 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -22197,7 +23704,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.allegromicro.com/~/media/Files/Datasheets/ACS756-Datasheet.ashx?la=en"
+		(property "Datasheet" ""
 			(at 212.09 58.42 0)
 			(hide yes)
 			(show_name no)
@@ -22242,6 +23749,28 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 212.09 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Product Name" "CH704150CT"
+			(at 212.09 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description P/N" "Current sensor"
 			(at 212.09 58.42 0)
 			(hide yes)
 			(show_name no)
@@ -22298,7 +23827,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "WMK115N15HG2"
+		(property "Value" ""
 			(at 67.31 160.0199 0)
 			(hide yes)
 			(show_name no)
@@ -22323,7 +23852,7 @@
 				(justify left)
 			)
 		)
-		(property "Datasheet" "WMK115N15HG2"
+		(property "Datasheet" ""
 			(at 66.04 162.56 0)
 			(hide yes)
 			(show_name no)
@@ -22379,6 +23908,28 @@
 				)
 			)
 		)
+		(property "Product Name" "WMK115N15HG2"
+			(at 60.96 158.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description P/N" "MOSFET"
+			(at 60.96 158.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "3"
 			(uuid "afd7af98-7707-401f-ab49-97a73db94fff")
 		)
@@ -22418,7 +23969,7 @@
 				)
 			)
 		)
-		(property "Value" "CH704150CT"
+		(property "Value" ""
 			(at 95.25 191.6998 0)
 			(hide yes)
 			(show_name no)
@@ -22440,7 +23991,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.allegromicro.com/~/media/Files/Datasheets/ACS756-Datasheet.ashx?la=en"
+		(property "Datasheet" ""
 			(at 80.01 195.58 0)
 			(hide yes)
 			(show_name no)
@@ -22495,6 +24046,28 @@
 				)
 			)
 		)
+		(property "Product Name" "CH704150CT"
+			(at 80.01 195.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description P/N" "Current sensor"
+			(at 80.01 195.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "3"
 			(uuid "2d29af54-affa-4c00-8d04-970f32531008")
 		)
@@ -22525,7 +24098,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -22617,6 +24190,50 @@
 				)
 			)
 		)
+		(property "Product Name" ""
+			(at 228.6 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description P/N" ""
+			(at 228.6 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Function" ""
+			(at 228.6 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Replacement" ""
+			(at 228.6 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "2d83d18e-8ed1-404d-af36-7a69b8114395")
 		)
@@ -22663,7 +24280,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder"
 			(at 66.04 271.78 0)
 			(hide yes)
 			(show_name no)
@@ -22720,6 +24337,28 @@
 		)
 		(property "Sim.Type" ""
 			(at 66.04 271.78 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description P/N" "Capacitor SMD 200V"
+			(at 66.04 271.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Product Name" "1210B474K201CT"
+			(at 66.04 271.78 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22832,6 +24471,17 @@
 		)
 		(property "Sim.Type" ""
 			(at 237.49 153.67 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description P/N" "Capacitor SMD 50V"
+			(at 237.49 153.67 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23031,6 +24681,17 @@
 				)
 			)
 		)
+		(property "Description P/N" "Resistor SMD 1%"
+			(at 387.35 129.54 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "0584d881-38e8-4f4e-b048-60c921d01bbb")
 		)
@@ -23077,7 +24738,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder"
 			(at 97.79 254 0)
 			(hide yes)
 			(show_name no)
@@ -23134,6 +24795,28 @@
 		)
 		(property "Sim.Type" ""
 			(at 97.79 254 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description P/N" "Capacitor SMD 200V"
+			(at 97.79 254 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Product Name" "1210B474K201CT"
+			(at 97.79 254 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23255,6 +24938,17 @@
 				)
 			)
 		)
+		(property "Description P/N" "Capacitor SMD 25V"
+			(at 364.49 135.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "d41024e5-1bc2-48e1-9c1a-633537ab6645")
 		)
@@ -23367,6 +25061,17 @@
 				)
 			)
 		)
+		(property "Description P/N" "Capacitor SMD 25V"
+			(at 201.93 53.34 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "b01a2241-d532-4930-9b96-e33ce411b497")
 		)
@@ -23413,7 +25118,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder"
 			(at 85.09 271.78 0)
 			(hide yes)
 			(show_name no)
@@ -23470,6 +25175,28 @@
 		)
 		(property "Sim.Type" ""
 			(at 85.09 271.78 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description P/N" "Capacitor SMD 200V"
+			(at 85.09 271.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Product Name" "1210B474K201CT"
+			(at 85.09 271.78 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23593,6 +25320,17 @@
 				)
 			)
 		)
+		(property "Description P/N" "Resistor SMD 0.1%"
+			(at 215.9 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "d9815392-8def-4bd9-8ee2-87828c4a313b")
 		)
@@ -23630,7 +25368,7 @@
 				)
 			)
 		)
-		(property "Value" "WMK115N15HG2"
+		(property "Value" ""
 			(at 182.8799 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -23655,7 +25393,7 @@
 				(justify left)
 			)
 		)
-		(property "Datasheet" "WMK115N15HG2"
+		(property "Datasheet" ""
 			(at 185.42 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -23701,6 +25439,28 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 181.61 76.2 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Product Name" "WMK115N15HG2"
+			(at 181.61 76.2 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description P/N" "MOSFET"
 			(at 181.61 76.2 90)
 			(hide yes)
 			(show_name no)
@@ -23760,7 +25520,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder"
 			(at 85.09 245.11 0)
 			(hide yes)
 			(show_name no)
@@ -23817,6 +25577,28 @@
 		)
 		(property "Sim.Type" ""
 			(at 85.09 245.11 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description P/N" "Capacitor SMD 200V"
+			(at 85.09 245.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Product Name" "1210B474K201CT"
+			(at 85.09 245.11 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23938,6 +25720,17 @@
 				)
 			)
 		)
+		(property "Description P/N" "Capacitor SMD 25V"
+			(at 318.77 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "a6cb0804-c9e9-49cd-a2ec-89c7c1a8f228")
 		)
@@ -24041,6 +25834,17 @@
 		)
 		(property "Sim.Type" ""
 			(at 391.16 133.35 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description P/N" "Capacitor SMD 25V"
+			(at 391.16 133.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24164,6 +25968,50 @@
 				)
 			)
 		)
+		(property "Description P/N" "Resistor SMD 0.1%"
+			(at 215.9 46.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Product Name" ""
+			(at 215.9 46.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Function" ""
+			(at 215.9 46.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Replacement" ""
+			(at 215.9 46.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "3a4b2b73-44bf-4de4-8b48-d23007283228")
 		)
@@ -24201,7 +26049,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Conn_01x01"
+		(property "Value" ""
 			(at 104.14 176.5299 90)
 			(hide yes)
 			(show_name no)
@@ -24399,7 +26247,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder"
 			(at 78.74 245.11 0)
 			(hide yes)
 			(show_name no)
@@ -24456,6 +26304,28 @@
 		)
 		(property "Sim.Type" ""
 			(at 78.74 245.11 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description P/N" "Capacitor SMD 200V"
+			(at 78.74 245.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Product Name" "1210B474K201CT"
+			(at 78.74 245.11 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24555,7 +26425,7 @@
 				)
 			)
 		)
-		(property "Description P/N" "Resistor SMD"
+		(property "Description P/N" "Resistor SMD 0.1%"
 			(at 307.34 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -24724,6 +26594,17 @@
 				)
 			)
 		)
+		(property "Description P/N" "Resistor SMD 0.1%"
+			(at 223.52 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "344a01fa-0ab2-4f51-88d5-3314d1e54d99")
 		)
@@ -24770,7 +26651,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder"
 			(at 123.19 254 0)
 			(hide yes)
 			(show_name no)
@@ -24827,6 +26708,28 @@
 		)
 		(property "Sim.Type" ""
 			(at 123.19 254 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description P/N" "Capacitor SMD 200V"
+			(at 123.19 254 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Product Name" "1210B474K201CT"
+			(at 123.19 254 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24882,7 +26785,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder"
 			(at 85.09 254 0)
 			(hide yes)
 			(show_name no)
@@ -24939,6 +26842,28 @@
 		)
 		(property "Sim.Type" ""
 			(at 85.09 254 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description P/N" "Capacitor SMD 200V"
+			(at 85.09 254 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Product Name" "1210B474K201CT"
+			(at 85.09 254 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25147,7 +27072,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder"
 			(at 66.04 262.89 0)
 			(hide yes)
 			(show_name no)
@@ -25204,6 +27129,28 @@
 		)
 		(property "Sim.Type" ""
 			(at 66.04 262.89 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description P/N" "Capacitor SMD 200V"
+			(at 66.04 262.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Product Name" "1210B474K201CT"
+			(at 66.04 262.89 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25328,6 +27275,17 @@
 				)
 			)
 		)
+		(property "Description P/N" "Resistor SMD 1%"
+			(at 146.05 267.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "017a4f25-3936-4c1c-96b5-313c1c82d3e7")
 		)
@@ -25374,7 +27332,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder"
 			(at 91.44 245.11 0)
 			(hide yes)
 			(show_name no)
@@ -25431,6 +27389,28 @@
 		)
 		(property "Sim.Type" ""
 			(at 91.44 245.11 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description P/N" "Capacitor SMD 200V"
+			(at 91.44 245.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Product Name" "1210B474K201CT"
+			(at 91.44 245.11 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25554,6 +27534,17 @@
 				)
 			)
 		)
+		(property "Description P/N" "Resistor SMD 1%"
+			(at 223.52 242.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "666c203c-e557-4807-af35-c04ef6744bee")
 		)
@@ -25658,6 +27649,17 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 273.05 264.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 273.05 264.16 0)
 			(hide yes)
 			(show_name no)
@@ -25783,6 +27785,17 @@
 				)
 			)
 		)
+		(property "Description P/N" "Resistor SMD 1%"
+			(at 179.07 267.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "fc6dac6a-6cc3-4777-9b63-a97c655215f9")
 		)
@@ -25829,7 +27842,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder"
 			(at 97.79 262.89 0)
 			(hide yes)
 			(show_name no)
@@ -25886,6 +27899,28 @@
 		)
 		(property "Sim.Type" ""
 			(at 97.79 262.89 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description P/N" "Capacitor SMD 200V"
+			(at 97.79 262.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Product Name" "1210B474K201CT"
+			(at 97.79 262.89 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25941,7 +27976,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder"
 			(at 123.19 245.11 0)
 			(hide yes)
 			(show_name no)
@@ -25998,6 +28033,28 @@
 		)
 		(property "Sim.Type" ""
 			(at 123.19 245.11 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description P/N" "Capacitor SMD 200V"
+			(at 123.19 245.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Product Name" "1210B474K201CT"
+			(at 123.19 245.11 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26199,6 +28256,17 @@
 				)
 			)
 		)
+		(property "Description P/N" "Resistor SMD 1%"
+			(at 207.01 242.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "b86e24d6-c8da-4b48-8518-cc8fd8704f6c")
 		)
@@ -26304,6 +28372,17 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 189.23 250.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 189.23 250.19 0)
 			(hide yes)
 			(show_name no)
@@ -26427,7 +28506,7 @@
 				)
 			)
 		)
-		(property "Value" "CH704150CT"
+		(property "Value" ""
 			(at 208.2098 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -26449,7 +28528,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.allegromicro.com/~/media/Files/Datasheets/ACS756-Datasheet.ashx?la=en"
+		(property "Datasheet" ""
 			(at 212.09 125.73 0)
 			(hide yes)
 			(show_name no)
@@ -26494,6 +28573,28 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 212.09 125.73 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Product Name" "CH704150CT"
+			(at 212.09 125.73 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description P/N" "Current sensor"
 			(at 212.09 125.73 0)
 			(hide yes)
 			(show_name no)
@@ -26703,6 +28804,17 @@
 				)
 			)
 		)
+		(property "Description P/N" "Capacitor SMD 25V"
+			(at 378.46 121.92 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "dfe4941e-142e-4083-a9c1-f916b428649a")
 		)
@@ -26805,6 +28917,17 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 201.93 120.65 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description P/N" "Capacitor SMD 25V"
 			(at 201.93 120.65 90)
 			(hide yes)
 			(show_name no)
@@ -26927,6 +29050,17 @@
 				)
 			)
 		)
+		(property "Description P/N" "Capacitor SMD 25V"
+			(at 194.31 120.65 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "9f2a0717-de3f-4ec0-a80e-e3d2730151b8")
 		)
@@ -27031,6 +29165,17 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 256.54 264.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 256.54 264.16 0)
 			(hide yes)
 			(show_name no)
@@ -27226,7 +29371,7 @@
 				)
 			)
 		)
-		(property "Value" "WMK115N15HG2"
+		(property "Value" ""
 			(at 182.8799 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -27251,7 +29396,7 @@
 				(justify left)
 			)
 		)
-		(property "Datasheet" "WMK115N15HG2"
+		(property "Datasheet" ""
 			(at 185.42 138.43 0)
 			(hide yes)
 			(show_name no)
@@ -27297,6 +29442,28 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 181.61 143.51 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Product Name" "WMK115N15HG2"
+			(at 181.61 143.51 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description P/N" "MOSFET"
 			(at 181.61 143.51 90)
 			(hide yes)
 			(show_name no)
@@ -27356,7 +29523,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder"
 			(at 85.09 236.22 0)
 			(hide yes)
 			(show_name no)
@@ -27413,6 +29580,28 @@
 		)
 		(property "Sim.Type" ""
 			(at 85.09 236.22 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description P/N" "Capacitor SMD 200V"
+			(at 85.09 236.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Product Name" "1210B474K201CT"
+			(at 85.09 236.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27537,6 +29726,17 @@
 				)
 			)
 		)
+		(property "Description P/N" "Resistor SMD 1%"
+			(at 157.48 267.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "ac430c8a-8435-4a1f-8d83-0aa43e14151a")
 		)
@@ -27641,6 +29841,17 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 223.52 264.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description P/N" "Resistor SMD 1%"
 			(at 223.52 264.16 0)
 			(hide yes)
 			(show_name no)
